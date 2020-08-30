@@ -95,6 +95,21 @@
           -36.51199461447466
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#dd4c29",
+        "marker-size": "large",
+        "marker-symbol": "town-hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.66105222702026,
+          -36.51180921733834
+        ]
+      }
     }
   ]
 }
